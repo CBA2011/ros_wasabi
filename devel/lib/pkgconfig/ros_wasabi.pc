@@ -1,0 +1,8 @@
+prefix=/home/basano/GIT/ros_wasabi/devel
+
+Name: ros_wasabi
+Description: Description of ros_wasabi
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/basano/GIT/ros_wasabi/devel/lib 
+Requires: 
